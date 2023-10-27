@@ -93,6 +93,6 @@ Write the code that takes user input, preprocesses it if necessary, and passes i
 Interact with app in the web browser to ensure that everything is functioning as expected. Test different inputs and verify that the predictions are accurate.
 
 ## App Link:
-[APP](https://airline-passenger-satisfaction-prediction-uza3knrzn8uqhcmnqfcd.streamlit.app/)
+* [APP](https://airline-passenger-satisfaction-prediction-uza3knrzn8uqhcmnqfcd.streamlit.app/)
 
 ### THANK YOU FOR VISITING MY PROJECT
