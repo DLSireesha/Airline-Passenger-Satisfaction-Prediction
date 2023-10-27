@@ -1,7 +1,5 @@
-Python==3.8.3
 scikit-learn==0.24.2
 Pandas==1.5.3
 Numpy==1.23.5
 Matplotlib==3.7.0
 Streamlit==1.26.0
-Pickle==3.8.3
