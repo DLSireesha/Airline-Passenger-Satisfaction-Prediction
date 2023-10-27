@@ -45,7 +45,7 @@ Google Colaboratory
   pip install scikit-Learn
 ```
 ## Dataset:
-The Airline Passenger Satisfaction Prediction Dataset has been used for this purpose, taken from the Kaggle*. link is below.
+The Airline Passenger Satisfaction Prediction Dataset has been used for this purpose, taken from the **Kaggle**. link is below.
 
 * [Dataset](https://www.kaggle.com/code/khatiba/airline-passenger-satisfaction-random-forest/input)
 
@@ -86,7 +86,7 @@ Write the code that takes user input, preprocesses it if necessary, and passes i
 
 **Step 6**: Run the Streamlit app using the below command
 ```bash
-  streamlit run Campus_Placement_Prediction_app.py
+  streamlit run Airline_Passenger_Satisfaction.py
 ```
 
 **Step 7**: **Test the app** 
